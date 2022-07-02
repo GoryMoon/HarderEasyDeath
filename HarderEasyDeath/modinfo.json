@@ -1,0 +1,36 @@
+{
+  "name": "Harder Easy-death",
+  "author": "GoryMoon",
+  "description": "Make dying in Easy have a little more consequences. The player loses one random inventory item.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/harder-easy-death/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": [],
+  "modSettings": [
+    {
+      "type": "slider",
+      "name": "removeCount",
+      "text": "The amount of slots to 'clear' on death",
+      "access": "both",
+      "default": 1,
+      "range": {
+        "type": "number",
+        "min": 0,
+        "max": 100,
+        "decimals": 0
+      }
+    },
+    {
+      "type": "checkbox",
+      "name": "clearSlots",
+      "text": "Clear the slot or do like Normal (leave some items/damage tools)",
+      "access": "both",
+      "default": true
+    }
+  ]
+}
