@@ -1,4 +1,14 @@
 
+<div align = right>
+
+<img
+    src = 'HarderEasyDeath/icon.png'
+    width = 120
+    align = right
+/>
+
+</div>
+
 # Harder Easy Deaths   [![Badge License]][License]
 
 *A **[Raft]** mod that gives deaths more meaning.*
