@@ -15,6 +15,7 @@
 
 <br>
 <br>
+<br>
 
 <div align = center>
 
@@ -39,7 +40,7 @@ With the **[Extra Settings API]** you can configure <br>
 how many items you will loose with each death.
 
 You can also have it behave like  `Normal Mode` . <br>
-*⤷ Lose some items in a stack + tools getting damaged.*
+*⤷ Lose some items in stacks + damaged tools.*
 
 <br>
 
