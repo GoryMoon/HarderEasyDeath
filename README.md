@@ -1,13 +1,65 @@
-﻿# Harder Easy-death
 
-Can be found [here](https://www.raftmodding.com/mods/harder-easy-death).
+<div align = right>
 
-This mod makes the player lose one item when playing in Easy mode by default.
+<img
+    src = 'HarderEasyDeath/icon.png'
+    width = 120
+    align = right
+/>
 
-You can configure the amount of items lost with [Extra Settings API](https://www.raftmodding.com/mods/extra-settings-api).
-There is also a setting that will make it behave like Normal mode (lose some items in a stack and damage tools).
+</div>
 
-License
-----
+# Harder Easy Deaths   [![Badge License]][License]
 
-MIT
+*A **[Raft]** mod that gives deaths more meaning.*
+
+<br>
+<br>
+<br>
+
+<div align = center>
+
+[![Button RaftModding]][RaftModding]
+
+</div>
+
+<br>
+<br>
+
+## Features
+
+By default, a player will lose  `1`  item when <br>
+dying with easy mode difficulty selected.
+
+<br>
+<br>
+
+## Customize
+
+With the **[Extra Settings API]** you can configure <br>
+how many items you will loose with each death.
+
+You can also have it behave like  `Normal Mode` . <br>
+*⤷ Lose some items in stacks + damaged tools.*
+
+<br>
+
+
+<!----------------------------------------------------------------------------->
+
+[Extra Settings API]: https://www.raftmodding.com/mods/extra-settings-api
+[RaftModding]: https://www.raftmodding.com/mods/harder-easy-death
+[Raft]: https://raft-game.com/
+
+[License]: LICENSE
+[Banner]: LanternPhysicsMod/banner.jpg
+
+
+<!----------------------------------[ Badges ]--------------------------------->
+
+[Badge License]: https://img.shields.io/badge/License-MIT-ac8b11.svg?style=for-the-badge&labelColor=yellow
+
+
+<!---------------------------------[ Buttons ]--------------------------------->
+
+[Button RaftModding]: https://img.shields.io/badge/RaftModding-3498db?style=for-the-badge&logoColor=white&logo=Wireshark
