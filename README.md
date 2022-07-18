@@ -16,15 +16,11 @@
 <br>
 <br>
 
----
-
 <div align = center>
 
 [![Button RaftModding]][RaftModding]
 
 </div>
-
----
 
 <br>
 <br>
